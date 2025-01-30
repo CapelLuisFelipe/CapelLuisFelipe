@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Luis Felipe Capel!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&width=600&lines=Engenheiro+de+Software;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Cloud+Computing+(AWS);Especialista+em+Soluções+Escaláveis!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&width=600&lines=Desenvolvedor+Front-end;Especialista+em+AWS;Criando+Interfaces+Modernas;Foco+em+Soluções+Cloud;Construindo+Experiências+Web+Inovadoras">
 </p>
 
 ---
@@ -9,21 +9,19 @@
 ## 📌 Sobre mim
 
 🎓 **Bacharel em Engenharia de Software** pelo **[UNI-FACEF](https://www.unifacef.com.br/)**  
-☁️ Especialista em **Cloud Computing (AWS)**, estudando para as certificações **Cloud Practitioner e Solutions Architect Associate**  
-💡 Experiência em **desenvolvimento Full-Stack**, criação de **APIs escaláveis**, e arquitetura **Serverless**  
-🔎 Conhecimento em **CI/CD, DevOps, Microsserviços e Segurança na Nuvem**  
-🚀 **Buscando oportunidades para inovar e criar soluções eficientes!**  
-
-Atualmente, desenvolvo aplicações modernas e performáticas, utilizando **React, Angular, Node.js, Prisma e AWS** para criar soluções **inteligentes e seguras**.
+☁️ **Especialista em Computação em Nuvem (AWS)**, estudando para as certificações **Cloud Practitioner e Solutions Architect Associate**  
+💻 **Desenvolvedor Front-end**, apaixonado por **React, Next.js e TailwindCSS**  
+📈 Criando **interfaces modernas e performáticas**, integradas a **APIs escaláveis na nuvem**  
+🚀 Buscando **oportunidades em Front-end e Cloud Computing** para **impactar negócios com tecnologia!**  
 
 ---
 
 ## 📚 Atualmente estudando:
 
-- ☁️ **AWS Cloud Practitioner e Solutions Architect Associate**
-- 🔧 **Boas Práticas em Arquitetura de Software**
-- 🛠️ **DevOps, CI/CD e Kubernetes**
-- 📡 **Soluções Escaláveis e Microsserviços**
+- **☁️ Arquitetura AWS** (Lambda, API Gateway, DynamoDB, Amplify)
+- **💻 Técnicas avançadas de UI/UX para Front-end**
+- **⚡️ Performance e otimização com Next.js**
+- **🔧 Boas práticas em deploy e CI/CD**
 
 ---
 
@@ -41,16 +39,12 @@ Atualmente, desenvolvo aplicações modernas e performáticas, utilizando **Reac
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss">
 </p>
 
-### 🔹 **Back-end**
+### 🔹 **Back-end & Banco de Dados**
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs">
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-</p>
-
-### 🔹 **Banco de Dados**
-<p align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -59,8 +53,9 @@ Atualmente, desenvolvo aplicações modernas e performáticas, utilizando **Reac
 ### 🔹 **Cloud & DevOps**
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes">
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform">
